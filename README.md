@@ -12,16 +12,11 @@ A clean, beginner-friendly Java project demonstrating object-oriented programmin
 - Maven (build/test/run)
 - JUnit 5 tests
 
-## Run
-```bash
-mvn -q test
-mvn -q exec:java
-```
-
-## Notes (Interview-ready)
+## Notes
 - Uses **OOP** (Book, Library) and custom exceptions
 - Uses **Collections** (HashMap) for fast lookup
 - Clear separation: domain models vs CLI
 
-## Suggested GitHub description
-Fluent Java CLI library manager using OOP, collections, exceptions, and unit tests (JUnit).
+## Overview
+<img width="772" height="175" alt="Capture d’écran, le 2026-02-01 à 20 59 01" src="https://github.com/user-attachments/assets/e5a51a53-0ed6-4166-92d2-0ca490a3fd91" />
+
